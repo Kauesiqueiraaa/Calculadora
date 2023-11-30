@@ -1,2 +1,2 @@
-# Calculadora
-para colocar o aprendizado em pratica um Projeto de uma calculadora, usando HTML>CSS>JAVASCRIPT;
+#Kaue Siqueira Calculadora
+Esse foi um projeto para colocar o aprendizado em pratica, uma Calculadora, usando HTML>CSS>JAVASCRIPT; ...
